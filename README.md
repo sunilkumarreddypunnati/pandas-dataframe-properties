@@ -9,12 +9,12 @@ It helps beginners understand how to access and interpret the structural informa
 
 | 🧪 Task File | 📄 Description | 📷 Output Screenshot |
 | ------------ | -------------- | -------------------- |
-| [task1.py](pandas%20DataFrame%20Properties/task 1.py) | 📏 **Shape, Size & Dimensions** – Explore `.shape`, `.size`, `.ndim` properties for structure info | ![Task 1](task%201.png) |
-| [task2.py](pandas%20DataFrame%20Properties/task 2.py) | 🔠 **Column Data Types & Index** – Learn about `.dtypes` and `.index` | ![Task 2](task%202.png) |
-| [task3.py](pandas%20DataFrame%20Properties/task 3.py) | 🧭 **Column Labels & Axes** – Inspect `.columns` and `.axes` for labels and structure | ![Task 3](task%203.png) |
-| [task4.py](pandas%20DataFrame%20Properties/task 4.py) | 🔄 **Values & Transpose** – Access `.values` (NumPy array) and `.T` (transpose) | ![Task 4](task%204.png) |
-| [task5.py](pandas%20DataFrame%20Properties/task 5.py) | 🧮 **Check Empty & Info** – Use `.empty` and `.info()` to summarize data presence and metadata | ![Task 5](task%205.png) |
-| [task6.py](pandas%20DataFrame%20Properties/task 6.py) | ⚙️ **Combined Properties** – Review multiple DataFrame attributes in one script | ![Task 6](task%206.png) |
+| [task1.py](pandas%20DataFrame%20Properties/task%201.py) | 📏 **Shape, Size & Dimensions** – Explore `.shape`, `.size`, `.ndim` properties for structure info | ![Task 1](task%201.png) |
+| [task2.py](pandas%20DataFrame%20Properties/task%202.py) | 🔠 **Column Data Types & Index** – Learn about `.dtypes` and `.index` | ![Task 2](task%202.png) |
+| [task3.py](pandas%20DataFrame%20Properties/task%203.py) | 🧭 **Column Labels & Axes** – Inspect `.columns` and `.axes` for labels and structure | ![Task 3](task%203.png) |
+| [task4.py](pandas%20DataFrame%20Properties/task%204.py) | 🔄 **Values & Transpose** – Access `.values` (NumPy array) and `.T` (transpose) | ![Task 4](task%204.png) |
+| [task5.py](pandas%20DataFrame%20Properties/task%205.py) | 🧮 **Check Empty & Info** – Use `.empty` and `.info()` to summarize data presence and metadata | ![Task 5](task%205.png) |
+| [task6.py](pandas%20DataFrame%20Properties/task%206.py) | ⚙️ **Combined Properties** – Review multiple DataFrame attributes in one script | ![Task 6](task%206.png) |
 
 ---
 
